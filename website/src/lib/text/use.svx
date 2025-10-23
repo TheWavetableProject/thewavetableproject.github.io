@@ -1,0 +1,14 @@
+# Using the Wavetable
+
+## Constant Speed Usage
+
+To start running experiments with the Wavetable:
+1. Open the container and remove the Wavetable
+2. Fill the container about 70% with water
+3. Place the container diagonally on the Wavetable platform.
+4. Plug the Wavetable in and start observing!
+
+You can simulate many atmospheric and oceanic phenomenon using the Wavetable and dyes, suction, and temperature gradients. Check out the [experiments](/learn).
+
+## Computer Controlled Usage
+You can also control the Wavetable with your computer. See the instructions for [MacOS](https://github.com/TheWavetableProject/wavetable_pico/blob/main/docs/macos_with_screen.md) and [Windows](https://github.com/TheWavetableProject/wavetable_pico/blob/main/docs/windows_with_PuTTY.md).

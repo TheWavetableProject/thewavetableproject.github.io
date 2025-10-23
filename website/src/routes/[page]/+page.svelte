@@ -11,7 +11,7 @@
     <!-- <a href="/" class="text-blue-600 hover:underline mb-4 inline-block">← Back to home</a> -->
     <Header />
     
-    <div class="prose prose-lg max-w-none">
+    <div class="prose mt-8 prose-lg max-w-none">
         <svelte:component this={data.component} />
     </div>
 </div>

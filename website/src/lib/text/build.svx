@@ -1,0 +1,24 @@
+# Build a Wavetable
+
+## 1. Purchase Materials 
+
+We recommend that you copy the [parts list](https://docs.google.com/spreadsheets/d/167C1359Ptwj1_pnoPLVTHA3_OaDd2yMCtWFSLsaULWw/edit?gid=0#gid=0),
+then input the desired number of Wavetables to see what you need to order and the total cost. 
+
+## 2. 3D Print Parts
+
+The critical components of the Wavetable are 3D printed. You can 3D print these parts yourself, or get them printed by a third-party service. 
+
+You can view the 3D printing instructions and download the STL files [here](https://drive.google.com/drive/folders/1Neu5wlGkD_drGxKZFMBpIjCDUXOYASPn?usp=sharing).
+
+<!-- You can download the STL files [here](https://github.com/TheWavetableProject/wavetable_documents/tree/main/instructions/stl), and see the 3D printing notes [here](/Wavetable%203D%20Printing%20Instructions.pdf). -->
+
+## 3. Wire the Electronics
+
+Follow the [electronics instructions](https://github.com/TheWavetableProject/wavetable_pico/blob/main/wiring.md).
+
+## 4. Assemble the Wavetable
+
+With all the parts collected, you can [assemble the Wavetable](https://docs.google.com/presentation/d/1uxqJUtij7me0dtrovL3Q7iOxOp2HlFcIUKmyUcJU9Zg/edit?usp=sharing)!
+
+Then, you should have a working Wavetable! You can [control it with your computer](/use) and start [running some experiments](/learn)!
