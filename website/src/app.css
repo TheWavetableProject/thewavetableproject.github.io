@@ -1,2 +1,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+/* a {
+    @apply underline hover:text-blue-400 transition-all;
+} */
+
