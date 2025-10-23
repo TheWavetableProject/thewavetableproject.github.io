@@ -1,0 +1,31 @@
+
+# Atmospheric and Oceanic Effects with the Wavetable
+
+Welcome to the curriculum for the Wavetable!
+
+We aim to provide you with hands-on learning experiences to develop a curiosity-motivated understanding of exciting earth science phenomena. Below are the 7 immersive topics that compose this exploration. While the ordering of the lessons is flexible, we recommend starting with the first labs if  students are not familiar with fundamental oceanographic and atmospheric concepts.
+
+We provide [experiment guides](https://drive.google.com/drive/folders/1rOgc2bVh_EaFS03UwNrI6A9km2KZt3WZ?usp=sharing) for the below experiments: 
+ 
+### Solid body rotation
+Solid-body rotation is the basis for successful simulations using your wavetable and this lab will acquaint you with the topic and whet your appetite for more complex experimentation. Building on the basic knowledge of solid body rotation, this lab will further explore the properties of a circulating body of water by using food dye or potassium permanganate crystals to visualize currents and flow.
+
+### Vortices
+Vortex creation and interaction draws upon the visual phenomena inherent in dye stirring to simulate how vortices form and interact with each other. By applying this concept to Hurricanes, this lab kicks off the real-world content-based learning of this curriculum.
+ 
+### General Circulation
+From Hadley cells to atmospheric eddies, we will explore the different types of circulation in the atmosphere and how they form. This lab, unlike most in this course, is based solely on the atmosphere, and making connections between the theory and real-world results will be an important part of understanding it - as well as the concept that we can simulate air with a tank of water as they are both fluids.
+ 
+### Atmospheric Interaction
+Atmospheric fronts are major weather patterns and are used every day by meteorologists to predict the weather. We will simulate different types of fronts, which are one of the most important phenomena in atmospheric science, and we will be simulating a few different types of them. This lab does not require precision and is straightforward to conduct.
+ 
+### Salinity
+When freshwater estuaries deposit water into the ocean, the freshwater tends to form into a few distinct shapes, called river plumes. This lab is fairly advanced because it intersects many fundamental topics, but the lab itself requires less precision than most and is easy to complete well.
+ 
+### Fluid Stratification
+Though a vital constraint that underlies many oceanic phenomena, Taylor columns are hard to understand phenomena and are also quite difficult to simulate. The general principle is that the wake of an object in fluid under solid body rotation stays around the object, creating a stable vertical “column” rather than the intuitive trailing wake. This lab is advanced because of the precision needed to model Taylor columns. A significant amount of time should be allotted for this lab as a solid understanding of Taylor columns will be necessary for the next and final lab in this course.
+ 
+### Ocean Flow
+Leaning heavily on the previous work done on the Coriolis force, this lab ties together two ocean-based phenomena. Ekman transport and Western boundary intensification are both challenging topics to grasp but are the two main drivers in ocean currents. This lab requires a solid understanding of how there is a change in Coriolis force with latitude, as well as a grasp on how wind stress on the surface of the ocean causes motion.
+
+To follow along, see the [experiment guides](https://drive.google.com/drive/folders/1rOgc2bVh_EaFS03UwNrI6A9km2KZt3WZ?usp=sharing) and [videos]!

@@ -1,2 +1,5 @@
 ## What is this?
 
+The Wavetable Project allows you to play with hurricanes!
+
+## Get in touch
