@@ -1,5 +1,14 @@
 ## What is this?
 
-The Wavetable Project allows you to play with hurricanes!
+The Wavetable is a table-top earth fluid dynamics simulator. It allows you to play with eddies, hurricanes, and other atmospheric and oceanic effects.
 
-## Get in touch
+The Wavetable Project aims to make fluid dynamics and earth science more accessible, by providing the materials to [build your own Wavetable](/build) and [experiments to see earth physics in action](/learn). The Wavetable Project is
+- open source,
+- designed to be affordable,
+- and approachable by all ages. 
+
+We have run courses with the Wavetable with elementary through undergraduate students. The Wavetable has been used both for front-of-classroom demonstrations and student-guided exploration in groups of 3-4. Both the construction and use of the Wavetable get students excited—they get to work with an apparatus hands-on to produce significant (and beautiful!) physical effects. 
+
+The Wavetable is designed to be easy to implement. The build is made of 3D printed and off-the-shelf materials, and requires only hand tools to assemble. And after construction, it stores robustly in its own box—it can be stacked, strapped to a bike, or shipped across the country! 
+
+The Wavetable Project was built by students at [The Nueva School](https://nuevaschool.org) in collaboration with [Prof. Leif Thomas](https://profiles.stanford.edu/leif-thomas) at Stanford Earth Systems Sciences. Please get in touch to learn more!
