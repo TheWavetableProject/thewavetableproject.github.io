@@ -28,4 +28,4 @@ Though a vital constraint that underlies many oceanic phenomena, Taylor columns 
 ### Ocean Flow
 Leaning heavily on the previous work done on the Coriolis force, this lab ties together two ocean-based phenomena. Ekman transport and Western boundary intensification are both challenging topics to grasp but are the two main drivers in ocean currents. This lab requires a solid understanding of how there is a change in Coriolis force with latitude, as well as a grasp on how wind stress on the surface of the ocean causes motion.
 
-To follow along, see the [experiment guides](https://drive.google.com/drive/folders/1rOgc2bVh_EaFS03UwNrI6A9km2KZt3WZ?usp=sharing) and [videos]!
+To follow along, see the [experiment guides](https://drive.google.com/drive/folders/1rOgc2bVh_EaFS03UwNrI6A9km2KZt3WZ?usp=sharing)!
