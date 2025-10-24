@@ -12,7 +12,7 @@
 
 <div class="flex flex-col">
     <!-- hero -->
-    <div class="md:h-[60vh] rounded-md relative w-full md:w-max mx-auto">
+    <div class="md:h-[60vh] rounded-md relative w-full md:w-max md:mt-4 mx-auto">
         <img src={hero} alt="Wavetable and experiments" class="h-full rounded-md" />
         <div class="absolute left-0 bottom-0 md:max-w-1/3 space-y-2 md:space-y-4 translate-y-8 md:translate-y-0">
             <h1 class="text-2xl xs:text-4xl sm:text-[2.5rem] md:text-5xl font-bold">The<br>Wavetable<br>Project</h1>
