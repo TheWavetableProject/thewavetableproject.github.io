@@ -7,7 +7,7 @@ The Wavetable Project aims to make fluid dynamics and earth science more accessi
 - designed to be affordable,
 - and approachable by all ages. 
 
-We have run courses with the Wavetable with elementary through undergraduate students. The Wavetable has been used both for front-of-classroom demonstrations and student-guided exploration in groups of 3-4. Both the construction and use of the Wavetable get students excited—they get to work with an apparatus hands-on to produce significant (and beautiful!) physical effects. 
+We have run courses with the Wavetable with elementary through graduate students. The Wavetable has been used both for front-of-classroom demonstrations and student-guided exploration in groups of 3-4. Both the construction and use of the Wavetable get students excited—they get to work with an apparatus hands-on to produce significant (and beautiful!) physical effects. 
 
 The Wavetable is designed to be easy to implement. The build is made of 3D printed and off-the-shelf materials, and requires only hand tools to assemble. And after construction, it stores robustly in its own box—it can be stacked, strapped to a bike, or shipped across the country! 
 
